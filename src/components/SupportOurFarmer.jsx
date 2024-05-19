@@ -9,7 +9,7 @@ const SupportOurFarmer = () => {
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur facilis fugit quod assumenda ab accusamus officia consectetur mollitia nulla et itaque, dolores labore tempora placeat laborum aut iure eos ipsa.</p>
         <button>our promise</button>
         </div>
-        <img src="public/farmer.jpg" alt="farmer" />
+        <img src="/farmer.jpg" alt="farmer" />
     </section>
   )
 }

@@ -29,7 +29,7 @@ const Hero = () => {
       </div>
     </div>
 
-    <img className="person-img" src="public/person.jpg" alt="text" />
+    <img className="person-img" src="/person.jpg" alt="text" />
   </>
   )
 }
